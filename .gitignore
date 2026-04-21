@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Reportes generados
+reports/
+*.txt
+scan_*.txt
+vuln_exploit_*.txt
+
+# Archivos temporales
+*.tmp
+*.log
+.discovery.xml
+
+# Metasploit
+~/.msf4/
+~/.msf5/
+~/.msf6/
+~/.msf7/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
